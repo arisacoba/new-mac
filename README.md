@@ -186,4 +186,4 @@ Made by **[@aris_acoba](https://arisacoba.com/)**
 
 <hr/>
 
-Wallpaper from [**Unsplash**](https://unsplash.com/)
+Wallpaper from Daniil Silantev via [**Unsplash**](https://unsplash.com/photos/hjODrLxv55E)
