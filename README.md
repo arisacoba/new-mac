@@ -4,6 +4,10 @@
 
 Bunch of checklists to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
 
+<br/>
+
+![new-mac-who-dis](https://user-images.githubusercontent.com/8143661/72594646-dad15c80-3942-11ea-8790-cdd519056ce9.jpg)
+
 <br />
 
 **S E C T I O N S**
@@ -178,3 +182,8 @@ Made by **[@aris_acoba](https://arisacoba.com/)**
 2020 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
 
 <i style="color: #9b9a97">This page is also available in <a href="https://www.notion.so/arisacoba/New-Mac-85fcbb2445a4466fbfdbbbd8b07ad458" target="_blank">Notion</a></i>
+
+
+<hr/>
+
+Wallpaper from [**Unsplash**](https://unsplash.com/)
