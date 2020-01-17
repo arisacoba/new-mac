@@ -30,8 +30,8 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 ### **Productivity/Communication**
 
 - [ ]  [**Slack**](https://slack.com/intl/en-ph/help/articles/207677868-Download-Slack-for-Mac)
-- [ ]  [**Notion](https://www.notion.so/desktop):** powerful note-taking app
-- [ ]  [**Zoom](https://zoom.us/download):** video conferencing tool
+- [ ]  [**Notion](https://www.notion.so/desktop)**: powerful note-taking app
+- [ ]  [**Zoom](https://zoom.us/download)**: video conferencing tool
 - [ ]  [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ]  (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 - [ ]  [**Dropbox**](https://www.dropbox.com/downloading)
