@@ -29,6 +29,8 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 
 ---
 
+<br />
+
 # Applications
 
 ### **First things first**
@@ -100,7 +102,7 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 
 <br />
 
----
+
 
 # OS Configuration
 
@@ -150,7 +152,7 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 
 <br />
 
----
+
 
 # Terminal Configuration
 
