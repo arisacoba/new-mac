@@ -2,6 +2,8 @@
 
 Bunch of checklist to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
 
+<br />
+
 **S E C T I O N S**
 
 * [Applications](#applications)
@@ -20,6 +22,8 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
   * [Mouse configuration](#mouse-configuration)
   * [Open Spotify only on the second desktop](#open-spotify-only-on-the-second-desktop)
 * [Terminal Configuration](#terminal-configuration)
+
+<br />
 
 ---
 
@@ -92,25 +96,27 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 - [ ]  [**Spotify**](https://www.spotify.com/ph/download/other/): only the music and podcast streaming you need
 - [ ]  [**MacDown**](https://macdown.uranusjr.com/): markdown editor
 
+<br />
+
 ---
 
 # OS Configuration
 
 ### Change computer name
 
-System Preferences → Sharing
+<span style="color: #9b9a97">System Preferences → Sharing</span>
 
 <img width="780" alt="computer-name" src="https://user-images.githubusercontent.com/8143661/72588859-99d24b80-3934-11ea-84f7-1c04b23f520d.png">
 
 ### Change user avatar
 
-System Preferences → User & Groups
+<span style="color: #9b9a97">System Preferences → User & Groups</span>
 
 <img width="780" alt="change-avatar" src="https://user-images.githubusercontent.com/8143661/72589708-f0d92000-3936-11ea-9a6e-5c6868dbc89d.png">
 
 ### Keyboard app shortcuts
 
-System Preferences → Keyboard → Shortcuts
+<span style="color: #9b9a97">System Preferences → Keyboard → Shortcuts</span>
 
 **Google Chrome** and **iTerm2**: to lessen the probability of accidental quitting the application
 
@@ -118,27 +124,29 @@ System Preferences → Keyboard → Shortcuts
 
 ### Trackpad configuration
 
-System Preferences → Trackpad
+<span style="color: #9b9a97">System Preferences → Trackpad</span>
 
 <img width="780" alt="trackpad-configuration-part1" src="https://user-images.githubusercontent.com/8143661/72588897-ad7db200-3934-11ea-8640-e176e3d737e9.png">
 <img width="780" alt="trackpad-configuration-part2" src="https://user-images.githubusercontent.com/8143661/72588931-cab28080-3934-11ea-9fce-dac3f2cfe553.png">
 <img width="780" alt="trackpad-configuration-part3" src="https://user-images.githubusercontent.com/8143661/72588963-d605ac00-3934-11ea-8f02-3a1ad0996abe.png">
 
-System Preferences → Accessibility → Mouse & Trackpad
+<span style="color: #9b9a97">System Preferences → Accessibility → Mouse & Trackpad</span>
 
 <img width="780" alt="trackpad-options" src="https://user-images.githubusercontent.com/8143661/72588988-e61d8b80-3934-11ea-911f-b72e75dfdf0a.png">
 
 ### Mouse configuration
 
-System Preferences → Mouse
+<span style="color: #9b9a97">System Preferences → Mouse</span>
 
 <img width="780" alt="mouse-configuration" src="https://user-images.githubusercontent.com/8143661/72589006-f6ce0180-3934-11ea-9e77-fd45e95c7a79.png">
 
 ### Open Spotify only on the second desktop
 
-On dock → Right-click Spotify → Options → This Desktop
+<span style="color: #9b9a97">On dock → Right-click Spotify → Options → This Desktop</span>
 
 <img width="780" alt="spotify-configuration" src="https://user-images.githubusercontent.com/8143661/72589019-01889680-3935-11ea-8d4b-88ce39985b48.jpg">
+
+<br />
 
 ---
 
@@ -157,10 +165,12 @@ On dock → Right-click Spotify → Options → This Desktop
 
 - [ ]  Configure **~/.vimrc**
 
-
+<br /><br /><br />
 
 ---
 
 Made by **[@aris_acoba](https://arisacoba.com/)**
 
 2020 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
+
+<i style="color: #9b9a97">This page is also available in <a href="https://www.notion.so/arisacoba/New-Mac-85fcbb2445a4466fbfdbbbd8b07ad458" target="_blank">Notion</a></i>
