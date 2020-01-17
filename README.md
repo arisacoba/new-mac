@@ -1,6 +1,8 @@
 > New mac, who dis
 
-Bunch of checklist to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen
+Bunch of checklist to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
+
+**S E C T I O N S**
 
 ---
 
@@ -30,8 +32,8 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 ### **Productivity/Communication**
 
 - [ ]  [**Slack**](https://slack.com/intl/en-ph/help/articles/207677868-Download-Slack-for-Mac)
-- [ ]  [**Notion](https://www.notion.so/desktop)**: powerful note-taking app
-- [ ]  [**Zoom](https://zoom.us/download)**: video conferencing tool
+- [ ]  [**Notion**](https://www.notion.so/desktop): powerful note-taking app
+- [ ]  [**Zoom**](https://zoom.us/download): video conferencing tool
 - [ ]  [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ]  (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 - [ ]  [**Dropbox**](https://www.dropbox.com/downloading)
@@ -136,5 +138,5 @@ On dock → Right-click Spotify → Options → This Desktop
 
 ---
 
-2020 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com) 
-                                                                        Made by **[@aris_acoba](https://arisacoba.com/)**
+Made by **[@aris_acoba](https://arisacoba.com/)**
+2020 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
