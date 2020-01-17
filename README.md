@@ -4,6 +4,23 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 
 **S E C T I O N S**
 
+* [Applications](#applications)
+  * [First things first](#first-things-first)
+  * [Design](#design)
+  * [Productivity/Communication](#productivitycommunication)
+  * [Dev](#dev)
+  * [Mac specific apps](#mac-specific-apps)
+  * [Menubar apps](#menubar-apps)
+  * [Misc](#misc)
+* [OS Configuration](#os-configuration)
+  * [Change computer name](#change-computer-name)
+  * [Change user avatar](#change-user-avatar)
+  * [Keyboard app shortcuts](#keyboard-app-shortcuts)
+  * [Trackpad configuration](#trackpad-configuration)
+  * [Mouse configuration](#mouse-configuration)
+  * [Open Spotify only on the second desktop](#open-spotify-only-on-the-second-desktop)
+* [Terminal Configuration](#terminal-configuration)
+
 ---
 
 # Applications
@@ -58,7 +75,7 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 - [ ]  [**Kap**](https://getkap.co/): screen recorder for Mac
 - [ ]  **[Sketch](https://www.sketch.com/)**: see in [#design](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#125dbf01c949494e85de4c6b21464698)
 
-### **Menubar app**
+### **Menubar apps**
 
 - [ ]  [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
 - [ ]  [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar(with paid version)
@@ -83,7 +100,13 @@ Bunch of checklist to do when setting up a new Mac. There must be a way to autom
 
 System Preferences → Sharing
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0050ac7-04c9-4915-a114-066a1e10ff86/sharing-configuration.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0050ac7-04c9-4915-a114-066a1e10ff86/sharing-configuration.png)
+<img width="780" alt="computer-name" src="https://user-images.githubusercontent.com/8143661/72588859-99d24b80-3934-11ea-84f7-1c04b23f520d.png">
+
+### Change user avatar
+
+System Preferences → User & Groups
+
+<img width="780" alt="change-avatar" src="https://user-images.githubusercontent.com/8143661/72589708-f0d92000-3936-11ea-9a6e-5c6868dbc89d.png">
 
 ### Keyboard app shortcuts
 
@@ -97,27 +120,25 @@ System Preferences → Keyboard → Shortcuts
 
 System Preferences → Trackpad
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67a4dfe7-bd85-4bdd-bc26-7aa5ee92a147/trackpad-configuration-part1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67a4dfe7-bd85-4bdd-bc26-7aa5ee92a147/trackpad-configuration-part1.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1f302b9-3de2-45a2-abc9-2170cb990c69/trackpad-configuration-part2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1f302b9-3de2-45a2-abc9-2170cb990c69/trackpad-configuration-part2.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0844f8be-ec49-4451-aa36-ed2f8618cd3f/trackpad-configuration-part3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0844f8be-ec49-4451-aa36-ed2f8618cd3f/trackpad-configuration-part3.png)
+<img width="780" alt="trackpad-configuration-part1" src="https://user-images.githubusercontent.com/8143661/72588897-ad7db200-3934-11ea-8640-e176e3d737e9.png">
+<img width="780" alt="trackpad-configuration-part2" src="https://user-images.githubusercontent.com/8143661/72588931-cab28080-3934-11ea-9fce-dac3f2cfe553.png">
+<img width="780" alt="trackpad-configuration-part3" src="https://user-images.githubusercontent.com/8143661/72588963-d605ac00-3934-11ea-8f02-3a1ad0996abe.png">
 
 System Preferences → Accessibility → Mouse & Trackpad
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f19e3484-ad9f-44db-8526-d6b64215fc21/trackpad-options.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f19e3484-ad9f-44db-8526-d6b64215fc21/trackpad-options.png)
+<img width="780" alt="trackpad-options" src="https://user-images.githubusercontent.com/8143661/72588988-e61d8b80-3934-11ea-911f-b72e75dfdf0a.png">
 
 ### Mouse configuration
 
 System Preferences → Mouse
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ae95083-156b-4068-8474-3cb72ba8a33e/mouse-configuration.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ae95083-156b-4068-8474-3cb72ba8a33e/mouse-configuration.png)
+<img width="780" alt="mouse-configuration" src="https://user-images.githubusercontent.com/8143661/72589006-f6ce0180-3934-11ea-9e77-fd45e95c7a79.png">
 
 ### Open Spotify only on the second desktop
 
 On dock → Right-click Spotify → Options → This Desktop
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60b76a81-0c81-4a54-90ce-bedc633691f4/spotify-configuration.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60b76a81-0c81-4a54-90ce-bedc633691f4/spotify-configuration.png)
+<img width="780" alt="spotify-configuration" src="https://user-images.githubusercontent.com/8143661/72589019-01889680-3935-11ea-8d4b-88ce39985b48.jpg">
 
 ---
 
@@ -136,7 +157,10 @@ On dock → Right-click Spotify → Options → This Desktop
 
 - [ ]  Configure **~/.vimrc**
 
+
+
 ---
 
 Made by **[@aris_acoba](https://arisacoba.com/)**
+
 2020 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
