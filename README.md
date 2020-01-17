@@ -2,7 +2,7 @@
 
 > New mac, who dis
 
-Bunch of checklist to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
+Bunch of checklists to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
 
 <br />
 
