@@ -91,7 +91,7 @@ System Preferences → Keyboard → Shortcuts
 
 **Google Chrome** and **iTerm2**: to lessen the probability of accidental quitting the application
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29a1fdc5-1771-4c3a-8fa1-b3ae5d06bf82/keyboard-configuration.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29a1fdc5-1771-4c3a-8fa1-b3ae5d06bf82/keyboard-configuration.png)
+<img width="780" alt="keyboard-configuration" src="https://user-images.githubusercontent.com/8143661/72587932-b0c36e80-3931-11ea-871b-d9054b6da1a0.png">
 
 ### Trackpad configuration
 
