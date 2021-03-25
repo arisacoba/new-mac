@@ -45,9 +45,8 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
     - [ ]  [**Pocket**](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en): save-later app
     - [ ]  [**Pushbullet**](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en): push notifications, links, and files from your phone to your browser and vice-versa
     - [ ]  [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
-    - [ ]  [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector
+    - [ ]  [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector ✨Highly recommended
     - [ ]  [**Grammarly**](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en): powerful grammar and spelling checker
-    - [ ]  [**Honey**](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en): automatically get the best coupon codes on cart checkout
     - [ ]  [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
     - [ ]  [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
     - [ ]  [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
@@ -58,6 +57,7 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 - [ ]  [**Figma**](https://www.figma.com/downloads/): browser-based design and prototype app, with collaboration
 - [ ]  [**Principle**](http://principleux.com/) (with fee): animate interfaces made in Sketch or Figma
 - [ ]  (Optional) **[Sketch](https://www.sketch.com/)** (with fee): design and prototype app
+- [ ]  [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
 
 ### **Productivity/Communication**
 
@@ -80,6 +80,7 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
     - [ ]  [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
 
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
+- [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
 
 ### **Mac specific apps**
 
@@ -87,6 +88,9 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 - [ ]  **[Principle](https://principleformac.com/)**: see in [#design](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#125dbf01c949494e85de4c6b21464698)
 - [ ]  [**Kap**](https://getkap.co/): screen recorder for Mac
 - [ ]  **[Sketch](https://www.sketch.com/)**: see in [#design](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#125dbf01c949494e85de4c6b21464698)
+- [ ]  [**Caption**](https://getcaption.co/): drag and drop subtitle search
+- [ ]  [**HazeOver**](https://hazeover.com/): focuses active window ✨New
+- [ ]  [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
 
 ### **Menubar apps**
 
@@ -98,12 +102,15 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 - [ ]  [**Aware**](https://apps.apple.com/us/app/aware/id1082170746?mt=12): tracks how long you've been actively using the computer
 - [ ]  [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
 - [ ]  [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
+- [ ]  **[Horo](https://matthewpalmer.net/horo-free-timer-mac/)**: timer app
+- [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar ✨New ✨Highly recommended
 
 ### **Misc**
 
 - [ ]  [**Logitech Options**](https://www.logitech.com/en-ph/product/options): application to configure your logitech devices
 - [ ]  [**Spotify**](https://www.spotify.com/ph/download/other/): only the music and podcast streaming you need
 - [ ]  [**MacDown**](https://macdown.uranusjr.com/): markdown editor
+- [ ]  [**Obsidian**](https://obsidian.md/): powerful markdown editor ✨New
 
 <br />
 
@@ -180,6 +187,7 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 
 Made by **[@aris_acoba](https://arisacoba.com/)**
 
-2020 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
+2021 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
+Updated Mar 2021
 
 <i style="color: #9b9a97;">This page is also available in <a href="https://www.notion.so/arisacoba/New-Mac-85fcbb2445a4466fbfdbbbd8b07ad458" target="_blank">Notion</a></i>
