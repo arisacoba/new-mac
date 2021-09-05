@@ -1,3 +1,7 @@
+⚠️ Might not be updated as to its Notion page counterpart. Open [Notion page](https://www.notion.so/arisacoba/New-Mac-85fcbb2445a4466fbfdbbbd8b07ad458)
+
+<hr>
+
 # New Mac
 
 > New mac, who dis
