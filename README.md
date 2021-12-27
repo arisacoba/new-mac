@@ -10,6 +10,11 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 
 <br/>
 
+Run script
+```
+bash setup.sh
+```
+
 ![new-mac-who-dis](https://user-images.githubusercontent.com/8143661/72594646-dad15c80-3942-11ea-8790-cdd519056ce9.jpg)
 <p align='center' style="color: #9b9a97;">Wallpaper from Daniil Silantev via <a href="https://unsplash.com/photos/hjODrLxv55E">Unsplash</a></p>
 
