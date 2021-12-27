@@ -12,6 +12,7 @@ brew tap homebrew/cask
 
 brew install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" # Install oh-my-zsh
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash #install nvm
 brew install yarn
 brew install vim
 
@@ -29,6 +30,11 @@ brew install --cask telegram
 brew install --cask iterm2
 brew install --cask fig
 brew install gh
+
+# Vim/vimrc needs
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+brew install the_silver_searcher
 
 # Mac apps
 brew install --cask spectacle
