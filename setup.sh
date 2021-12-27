@@ -22,7 +22,7 @@ brew install --cask responsively
 # Productivity/Communication
 brew install --cask slack
 brew install --cask notion
-brew install --cask zoomus
+brew install --cask zoom
 brew install --cask telegram
 
 # Dev
