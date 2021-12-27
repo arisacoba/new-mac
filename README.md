@@ -96,7 +96,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
     - [ ]  [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
-- [ ]  **[Fig]**(https://fig.io/invite?code=fig_community): Terminal autocomplete ✨New
+- [ ] [**Fig**](https://fig.io/invite?code=fig_community): Terminal autocomplete ✨New
 
 ### **Mac specific apps**
 
