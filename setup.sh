@@ -28,6 +28,7 @@ brew install --cask telegram
 # Dev
 brew install --cask iterm2
 brew install --cask fig
+brew install gh
 
 # Mac apps
 brew install --cask spectacle
