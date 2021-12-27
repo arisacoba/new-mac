@@ -55,10 +55,13 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
     - [ ]  [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
     - [ ]  [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
 - [ ]  New wallpaper from [**Unsplash**](https://unsplash.com/)
+- [ ]  Change user avatar
 
 ### **Design**
 
 - [ ]  [**Figma**](https://www.figma.com/downloads/): browser-based design and prototype app, with collaboration
+  - [ ]  Nudge amount: 8
+  - [ ]  Enable `Use number keys for opacity`
 - [ ]  [**Principle**](http://principleux.com/) (with fee): animate interfaces made in Sketch or Figma
 - [ ]  (Optional) **[Sketch](https://www.sketch.com/)** (with fee): design and prototype app
 - [ ]  [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
@@ -82,9 +85,9 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
     - [ ]  [**ColorZilla**](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
     - [ ]  [**WhatFont**](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
     - [ ]  [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
-
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
+- [ ]  **[Fig]**(https://fig.io/invite?code=fig_community): Terminal autocomplete ✨New
 
 ### **Mac specific apps**
 
@@ -95,6 +98,8 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 - [ ]  [**Caption**](https://getcaption.co/): drag and drop subtitle search
 - [ ]  [**HazeOver**](https://hazeover.com/): focuses active window ✨New
 - [ ]  [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
+- [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar ✨Highly recommended
+- [ ]  [**Aerial Screensaver**](https://aerialscreensaver.github.io/): a macOS screensaver that lets you play videos from Apple's tvOS screensaver
 
 ### **Menubar apps**
 
@@ -106,15 +111,16 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 - [ ]  [**Aware**](https://apps.apple.com/us/app/aware/id1082170746?mt=12): tracks how long you've been actively using the computer
 - [ ]  [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
 - [ ]  [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
-- [ ]  **[Horo](https://matthewpalmer.net/horo-free-timer-mac/)**: timer app
 - [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar ✨New ✨Highly recommended
+- [ ]  [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨New ✨ Recommended
 
 ### **Misc**
 
 - [ ]  [**Logitech Options**](https://www.logitech.com/en-ph/product/options): application to configure your logitech devices
 - [ ]  [**Spotify**](https://www.spotify.com/ph/download/other/): only the music and podcast streaming you need
 - [ ]  [**MacDown**](https://macdown.uranusjr.com/): markdown editor
-- [ ]  [**Obsidian**](https://obsidian.md/): powerful markdown editor ✨New
+- [ ]  [**Obsidian**](https://obsidian.md/): powerful markdown editor
+- [ ]  [**Keycastr**](https://github.com/keycastr/keycastr): keystroke visualiser; useful with Kap ✨New
 
 <br />
 
@@ -183,7 +189,7 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 
         brew install yarn
 
-- [ ]  Configure **~/.vimrc**
+- [ ]  Configure [**~/.vimrc**](https://github.com/arisacoba/setting-up-vim)
 
 <br /><br /><br />
 
@@ -192,6 +198,6 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 Made by **[@aris_acoba](https://arisacoba.com/)**
 
 2021 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
-Updated Mar 2021
+Updated Dec 2021
 
 <i style="color: #9b9a97;">This page is also available in <a href="https://www.notion.so/arisacoba/New-Mac-85fcbb2445a4466fbfdbbbd8b07ad458" target="_blank">Notion</a></i>
