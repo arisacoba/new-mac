@@ -65,6 +65,8 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
     - [ ]  [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
 - [ ]  New wallpaper from [**Unsplash**](https://unsplash.com/)
 - [ ]  Change user avatar
+- [ ]  Download [npm](https://nodejs.org/en/)
+- [ ]  Install homebrew
 
 ### **Design**
 
