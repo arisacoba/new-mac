@@ -6,8 +6,8 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 
 <br/>
 
-![new-mac-who-dis](https://user-images.githubusercontent.com/8143661/72594646-dad15c80-3942-11ea-8790-cdd519056ce9.jpg)
-<p align='center' style="color: #9b9a97;">Wallpaper from Daniil Silantev via <a href="https://unsplash.com/photos/hjODrLxv55E">Unsplash</a></p>
+![new-mac-2022](https://user-images.githubusercontent.com/8143661/148209403-51d15220-c2cc-4dfe-8b12-41c29c57f331.jpg)
+<p align='center' style="color: #9b9a97;">Wallpaper from Birmingham Museums Trust via <a href="https://unsplash.com/photos/RRn7VvZCbas">Unsplash</a></p>
 
 <br />
 
