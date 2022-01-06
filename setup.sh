@@ -52,3 +52,4 @@ brew install --cask mounty
 brew install --cask spotify
 brew install --cask macdown
 brew install --cask keycastr
+npm install --global fast-cli
