@@ -197,6 +197,11 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
         brew install yarn
 
 - [ ]  Configure [**~/.vimrc**](https://github.com/arisacoba/setting-up-vim)
+- [ ] Install [Fast CLI](https://github.com/sindresorhus/fast-cli)
+ 
+      
+      npm install --global fast-cli 
+      
 
 <br /><br /><br />
 
