@@ -120,6 +120,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
 - [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar ✨New ✨Highly recommended
 - [ ]  [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨New ✨ Recommended
+- [ ]  [**MonitorControl**](https://github.com/MonitorControl/MonitorControl): Control your display's brightness & volume on your Mac as if it was a native Apple Display
 
 ### **Misc**
 
