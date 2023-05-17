@@ -129,7 +129,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
 - [ ]  [**Color contrast analyser (CCA)**](https://www.tpgi.com/color-contrast-checker/): WCAG 2.0 compliant contrast ratio checker with more information than Contrast
 - [ ]  [**Stark**](https://www.getstark.co/figma): Figma plugin for your accessibility audits
-- [ ]  [**HeadingsMap**](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi): List headings structure of any website
+- [ ]  [**HeadingsMap**](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi): List the headings structure of any website
 
 ### **Misc**
 
