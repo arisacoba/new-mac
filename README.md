@@ -191,6 +191,11 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 <br />
 
+### Figma shortcuts
+Using [LogiOptions+](https://www.logitech.com/en-ph/software/logi-options-plus.html)
+
+![mxmaster3-figma-shortcuts](https://github.com/arisacoba/new-mac/assets/8143661/a1c3e1be-b321-438c-8a74-8a91b4fe4af8)
+
 
 
 # Terminal Configuration
