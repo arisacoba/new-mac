@@ -70,9 +70,10 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Figma**](https://www.figma.com/downloads/): browser-based design and prototype app, with collaboration
   - [ ]  Nudge amount: 8
   - [ ]  Enable `Use number keys for opacity`
-- [ ]  [**Principle**](http://principleux.com/) (with fee): animate interfaces made in Sketch or Figma
-- [ ]  (Optional) **[Sketch](https://www.sketch.com/)** (with fee): design and prototype app
-- [ ]  [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
+- [ ] [**Principle**](http://principleux.com/) (with fee): animate interfaces made in Sketch or Figma
+- [ ] (Optional) **[Sketch](https://www.sketch.com/)** (with fee): design and prototype app
+- [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
+- [ ] [**Confectionery browser**](https://confectioneryapp.com/): Take delicious screenshots of your websites. Cleaner version of Safari and Arc
 
 ### **Productivity/Communication**
 
@@ -108,6 +109,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
 - [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar ✨Highly recommended
 - [ ]  [**Aerial Screensaver**](https://aerialscreensaver.github.io/): a macOS screensaver that lets you play videos from Apple's tvOS screensaver
+- [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 
 ### **Menubar apps**
 
