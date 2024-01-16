@@ -227,6 +227,4 @@ Using [LogiOptions+](https://www.logitech.com/en-ph/software/logi-options-plus.h
 Made by **[@aris_acoba](https://arisacoba.com/)**
 
 2021 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
-Updated Dec 2021
-
-<i style="color: #9b9a97;">This page is also available in <a href="https://www.notion.so/arisacoba/New-Mac-85fcbb2445a4466fbfdbbbd8b07ad458" target="_blank">Notion</a></i>
+Updated Jan 2024
