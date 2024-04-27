@@ -4,6 +4,8 @@
 
 Bunch of checklists to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
 
+Last update: 27 April 2024
+
 <br/>
 
 ![new-mac-2022](https://user-images.githubusercontent.com/8143661/148209403-51d15220-c2cc-4dfe-8b12-41c29c57f331.jpg)
@@ -52,11 +54,8 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 - [ ]  [**Google Chrome**](https://www.google.com/chrome/): web browser. If don't like Chrome, get [**Firefox**](https://www.mozilla.org/en-US/firefox/new/)
     - [ ]  [**Vimium**](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): enables Vim key strokes in browser
-    - [ ]  [**Pocket**](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en): save-later app
-    - [ ]  [**Pushbullet**](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en): push notifications, links, and files from your phone to your browser and vice-versa
     - [ ]  [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
     - [ ]  [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector ✨Highly recommended
-    - [ ]  [**Grammarly**](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en): powerful grammar and spelling checker
     - [ ]  [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
     - [ ]  [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
     - [ ]  [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
@@ -70,8 +69,6 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Figma**](https://www.figma.com/downloads/): browser-based design and prototype app, with collaboration
   - [ ]  Nudge amount: 8
   - [ ]  Enable `Use number keys for opacity`
-- [ ] [**Principle**](http://principleux.com/) (with fee): animate interfaces made in Sketch or Figma
-- [ ] (Optional) **[Sketch](https://www.sketch.com/)** (with fee): design and prototype app
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
 - [ ] [**Confectionery browser**](https://confectioneryapp.com/): Take delicious screenshots of your websites. Cleaner version of Safari and Arc
 
@@ -80,9 +77,9 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Slack**](https://slack.com/intl/en-ph/help/articles/207677868-Download-Slack-for-Mac)
 - [ ]  [**Notion**](https://www.notion.so/desktop): powerful note-taking app
 - [ ]  [**Zoom**](https://zoom.us/download): video conferencing tool
+- [ ]  [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
 - [ ]  [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ]  (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
-- [ ]  [**Dropbox**](https://www.dropbox.com/downloading)
 
 ### **Dev**
 
@@ -90,39 +87,35 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/): web browser with powerful dev tools
     - [ ]  [**Vimium**](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
     - [ ]  [**Pocket**](https://getpocket.com/firefox/)
-    - [ ]  [**Pushbullet**](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)
     - [ ]  [**ColorZilla**](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
     - [ ]  [**WhatFont**](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
     - [ ]  [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
-- [ ] [**Fig**](https://fig.io/invite?code=fig_community): Terminal autocomplete ✨New
+- [ ] [**Fig**](https://fig.io/invite?code=fig_community): Terminal autocomplete (Now called CodeWhisperer)
 
 ### **Mac specific apps**
 
-- [ ]  **[Spectacle](https://www.spectacleapp.com/)**: easily resize windows in Mac
-- [ ]  **[Principle](https://principleformac.com/)**: see in [#design](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#125dbf01c949494e85de4c6b21464698)
-- [ ]  [**Kap**](https://getkap.co/): screen recorder for Mac
-- [ ]  **[Sketch](https://www.sketch.com/)**: see in [#design](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#125dbf01c949494e85de4c6b21464698)
-- [ ]  [**Caption**](https://getcaption.co/): drag and drop subtitle search
-- [ ]  [**HazeOver**](https://hazeover.com/): focuses active window ✨New
-- [ ]  [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
-- [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar ✨Highly recommended
-- [ ]  [**Aerial Screensaver**](https://aerialscreensaver.github.io/): a macOS screensaver that lets you play videos from Apple's tvOS screensaver
+- [ ] [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
+- [ ] [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar (Alternative: Cron calendar) ✨Highly recommended
+- [ ] [**Spectacle**](https://www.spectacleapp.com/): easily resize windows in Mac
+- [ ] [**Kap**](https://getkap.co/): screen recorder for Mac
+- [ ] [**Aerial Screensaver**](https://aerialscreensaver.github.io/): a macOS screensaver that lets you play videos from Apple's tvOS screensaver
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
+- [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
 
 ### **Menubar apps**
 
 - [ ]  [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
-- [ ]  [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar(with paid version)
-- [ ]  **[Numi](https://numi.app/)** (with fee): minimalist and highly funcitional calculator
+- [ ]  [**Dozer**](https://github.com/Mortennn/Dozer): hides icons in menubar (free)
+- [ ]  [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar (with paid version)
+- [ ]  [**Numi**](https://numi.app/) (with fee): minimalist and highly funcitional calculator
 - [ ]  [**Rocket**](https://matthewpalmer.net/rocket/): emoji picker and shortcut
 - [ ]  [**RunCat**](https://apps.apple.com/nz/app/runcat/id1429033973?mt=12): tracks CPU, disk, memory usage of your computer with running gif/symbol
-- [ ]  [**Aware**](https://apps.apple.com/us/app/aware/id1082170746?mt=12): tracks how long you've been actively using the computer
 - [ ]  [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
 - [ ]  [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
-- [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar ✨New ✨Highly recommended
-- [ ]  [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨New ✨ Recommended
+- [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar (Alternative: Cron Calendar) ✨Highly recommended
+- [ ]  [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨ Recommended
 - [ ]  [**MonitorControl**](https://github.com/MonitorControl/MonitorControl): Control your display's brightness & volume on your Mac as if it was a native Apple Display
 
 ### **Accessibility tools**
