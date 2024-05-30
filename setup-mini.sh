@@ -1,4 +1,4 @@
-echo "Running setup.sh"
+echo "Running setup-mini.sh"
 
 if test ! $(which brew)
 then
