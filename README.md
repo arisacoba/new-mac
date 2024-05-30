@@ -115,9 +115,9 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**RunCat**](https://apps.apple.com/nz/app/runcat/id1429033973?mt=12): tracks CPU, disk, memory usage of your computer with running gif/symbol
 - [ ]  [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
 - [ ]  [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
-- [ ]  [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar (Alternative: Cron Calendar) ✨Highly recommended
 - [ ]  [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨ Recommended
 - [ ]  [**MonitorControl**](https://github.com/MonitorControl/MonitorControl): Control your display's brightness & volume on your Mac as if it was a native Apple Display
+- [ ]  [**Clocker**](https://apps.apple.com/us/app/clocker/id1056643111?mt=12): Menubar world clock
 
 ### **Accessibility tools**
 
