@@ -78,6 +78,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ]  [**Notion**](https://www.notion.so/desktop): powerful note-taking app
 - [ ]  [**Zoom**](https://zoom.us/download): video conferencing tool
 - [ ]  [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
+- [ ]  [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro
 - [ ]  [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ]  (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
