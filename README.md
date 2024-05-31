@@ -4,7 +4,7 @@
 
 Bunch of checklists to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
 
-Last update: 27 April 2024
+Last update: 31 May 2024
 
 <br/>
 
@@ -59,10 +59,15 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
     - [ ]  [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
     - [ ]  [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
     - [ ]  [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
+- [ ] Download [iTerm2](https://iterm2.com/downloads.html)
+- [ ] Open iTerm2
+  - [ ] Change theme to `Minimal`
+  - [ ] Import [iTerm profile](https://github.com/arisacoba/dotfiles/blob/main/iterm2/iterm-profile.json)
+- [ ]  Install [Homebrew](https://brew.sh/)
+- [ ]  Download [Node.js](https://nodejs.org/en/)
 - [ ]  New wallpaper from [**Unsplash**](https://unsplash.com/)
 - [ ]  Change user avatar
-- [ ]  Download [npm](https://nodejs.org/en/)
-- [ ]  Install [Homebrew](https://brew.sh/)
+
 
 ### **Design**
 
@@ -104,6 +109,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Aerial Screensaver**](https://aerialscreensaver.github.io/): a macOS screensaver that lets you play videos from Apple's tvOS screensaver
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
+- [ ] [**Arc**](https://arc.net/download): Chrome alternative
 
 ### **Menubar apps**
 
@@ -143,41 +149,45 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 ### Change computer name
 
-<span style="color: #9b9a97">System Preferences → Sharing</span>
+System Preferences → General → About
 
-<img width="780" alt="computer-name" src="https://user-images.githubusercontent.com/8143661/72588859-99d24b80-3934-11ea-84f7-1c04b23f520d.png">
+![about@2x](https://github.com/arisacoba/new-mac/assets/8143661/8d193bb6-6cbc-4e58-8f6e-0198e7a82853)
 
 ### Change user avatar
 
-<span style="color: #9b9a97">System Preferences → User & Groups</span>
+System Preferences → User & Groups
 
-<img width="780" alt="change-avatar" src="https://user-images.githubusercontent.com/8143661/72589708-f0d92000-3936-11ea-9a6e-5c6868dbc89d.png">
+![user-groups@2x](https://github.com/arisacoba/new-mac/assets/8143661/004f9e43-2495-4b8f-b61d-b1e1500c80ef)
 
 ### Keyboard app shortcuts
 
-<span style="color: #9b9a97">System Preferences → Keyboard → Shortcuts</span>
+System Preferences → Keyboard
 
-**Google Chrome** and **iTerm2**: to lessen the probability of accidental quitting the application
+- [x] Enable "Keyboard navigation"
+- [x] Add `1Password`, `Arc`, `Google Chrome`
 
-<img width="780" alt="keyboard-configuration" src="https://user-images.githubusercontent.com/8143661/72587932-b0c36e80-3931-11ea-871b-d9054b6da1a0.png">
+![keyboard-shortcuts@2x](https://github.com/arisacoba/new-mac/assets/8143661/4d96955f-45d7-41dc-a84e-5f2140b587ff)
 
 ### Trackpad configuration
 
-<span style="color: #9b9a97">System Preferences → Trackpad</span>
+System Preferences → Trackpad
 
-<img width="780" alt="trackpad-configuration-part1" src="https://user-images.githubusercontent.com/8143661/72588897-ad7db200-3934-11ea-8640-e176e3d737e9.png">
-<img width="780" alt="trackpad-configuration-part2" src="https://user-images.githubusercontent.com/8143661/72588931-cab28080-3934-11ea-9fce-dac3f2cfe553.png">
-<img width="780" alt="trackpad-configuration-part3" src="https://user-images.githubusercontent.com/8143661/72588963-d605ac00-3934-11ea-8f02-3a1ad0996abe.png">
+![point-and-click@2x](https://github.com/arisacoba/new-mac/assets/8143661/9a4cfdd8-aca2-4fa9-852f-b0bb7b93b33f)
+![scroll-zoom@2x](https://github.com/arisacoba/new-mac/assets/8143661/7c21cb91-3b69-479a-831c-6734cf166fa8)
+![more-gestures@2x](https://github.com/arisacoba/new-mac/assets/8143661/ba0b4df6-b948-4032-a455-b6e664038fb0)
 
-<span style="color: #9b9a97">System Preferences → Accessibility → Mouse & Trackpad</span>
+**Three-finger-drag**
+System Settings → Accessibility → Pointer Control
 
-<img width="780" alt="trackpad-options" src="https://user-images.githubusercontent.com/8143661/72588988-e61d8b80-3934-11ea-911f-b72e75dfdf0a.png">
+- [x] Enable "Use trackpad for dragging"
+
+![three-finger-drag 2@2x](https://github.com/arisacoba/new-mac/assets/8143661/402ac122-76bb-4fe2-ac10-f1a56aedc0b4)
 
 ### Mouse configuration
 
-<span style="color: #9b9a97">System Preferences → Mouse</span>
+System Preferences → Mouse
 
-<img width="780" alt="mouse-configuration" src="https://user-images.githubusercontent.com/8143661/72589006-f6ce0180-3934-11ea-9e77-fd45e95c7a79.png">
+![mouse@2x](https://github.com/arisacoba/new-mac/assets/8143661/ea7ef5f7-b4c2-4a36-94ca-94c1e84a3bdc)
 
 ### Open Spotify only on the second desktop
 
@@ -208,11 +218,6 @@ Using [LogiOptions+](https://www.logitech.com/en-ph/software/logi-options-plus.h
         brew install yarn
 
 - [ ]  Configure [**~/.vimrc**](https://github.com/arisacoba/setting-up-vim)
-- [ ] Install [Fast CLI](https://github.com/sindresorhus/fast-cli)
- 
-      
-      npm install --global fast-cli 
-      
 
 <br /><br /><br />
 
@@ -220,5 +225,4 @@ Using [LogiOptions+](https://www.logitech.com/en-ph/software/logi-options-plus.h
 
 Made by **[@aris_acoba](https://arisacoba.com/)**
 
-2021 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
-Updated Jan 2024
+2024 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
