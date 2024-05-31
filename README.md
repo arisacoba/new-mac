@@ -144,25 +144,23 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 <br />
 
-
-
 # OS Configuration
 
 ### Change computer name
 
-System Preferences → General → About
+System Settings → General → About
 
 ![about@2x](https://github.com/arisacoba/new-mac/assets/8143661/8d193bb6-6cbc-4e58-8f6e-0198e7a82853)
 
 ### Change user avatar
 
-System Preferences → User & Groups
+System Settings → User & Groups
 
 ![user-groups@2x](https://github.com/arisacoba/new-mac/assets/8143661/004f9e43-2495-4b8f-b61d-b1e1500c80ef)
 
 ### Keyboard app shortcuts
 
-System Preferences → Keyboard
+System Settings → Keyboard
 
 - [x] Enable "Keyboard navigation"
 - [x] Add `1Password`, `Arc`, `Google Chrome`
@@ -171,7 +169,7 @@ System Preferences → Keyboard
 
 ### Trackpad configuration
 
-System Preferences → Trackpad
+System Settings → Trackpad
 
 ![point-and-click@2x](https://github.com/arisacoba/new-mac/assets/8143661/9a4cfdd8-aca2-4fa9-852f-b0bb7b93b33f)
 ![scroll-zoom@2x](https://github.com/arisacoba/new-mac/assets/8143661/7c21cb91-3b69-479a-831c-6734cf166fa8)
@@ -184,26 +182,28 @@ System Settings → Accessibility → Pointer Control
 
 ![three-finger-drag 2@2x](https://github.com/arisacoba/new-mac/assets/8143661/402ac122-76bb-4fe2-ac10-f1a56aedc0b4)
 
-### Mouse configuration
+### Misc
 
-System Preferences → Mouse
+**Show battery percentage**
+System Settings → Control Center
 
-![mouse@2x](https://github.com/arisacoba/new-mac/assets/8143661/ea7ef5f7-b4c2-4a36-94ca-94c1e84a3bdc)
+![show-battery-percentage@2x](https://github.com/arisacoba/new-mac/assets/8143661/73755a84-457b-41a1-a0dc-72cb7915f10e)
 
-### Open Spotify only on the second desktop
+**Open Spotify only on the second desktop**
 
-<span style="color: #9b9a97">On dock → Right-click Spotify → Options → This Desktop</span>
+On dock → Right-click Spotify → Options → This Desktop
 
 <img width="780" alt="spotify-configuration" src="https://user-images.githubusercontent.com/8143661/72589019-01889680-3935-11ea-8d4b-88ce39985b48.jpg">
 
 <br />
 
-### Figma shortcuts
-Using [LogiOptions+](https://www.logitech.com/en-ph/software/logi-options-plus.html)
+### [Logi Options+](https://www.logitech.com/en-ph/software/logi-options-plus.html
 
+**General**
+![CleanShot 2024-05-31 at 09 47 48@2x](https://github.com/arisacoba/new-mac/assets/8143661/fffabee0-ee3c-4d00-a001-d4a386327b7d)
+
+**Figma**
 ![mxmaster3-figma-shortcuts](https://github.com/arisacoba/new-mac/assets/8143661/a1c3e1be-b321-438c-8a74-8a91b4fe4af8)
-
-
 
 # Terminal Configuration
 
