@@ -83,6 +83,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
 - [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
+- [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
 - [ ] (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
 ### **Dev**
@@ -96,15 +97,13 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
     - [ ] [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
-- [ ] [**Fig**](https://fig.io/invite?code=fig_community): Terminal autocomplete (Now called CodeWhisperer)
+- [ ] [**Amazon Q**](https://aws.amazon.com/q/developer/?gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrTgW8tgcXAL_8R17kuD8owHSKZFKGT53fBjoT81m4TUi3XW0HeEtUaAnhzEALw_wcB&trk=255ccf7b-4a76-4dcb-9b07-68709e2b636b&sc_channel=ps&ef_id=Cj0KCQjw6uWyBhD1ARIsAIMcADrTgW8tgcXAL_8R17kuD8owHSKZFKGT53fBjoT81m4TUi3XW0HeEtUaAnhzEALw_wcB:G:s&s_kwcid=AL!4422!3!698234556956!e!!g!!amazon%20codewhisperer!21048268533!162057027495): Previously Fig, and Amazon Whisperer. Autocomplete in CLI and more
 
 ### **Mac specific apps**
 
 - [ ] [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
-- [ ] [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar (Alternative: Cron calendar) ✨Highly recommended
 - [ ] [**Spectacle**](https://www.spectacleapp.com/): easily resize windows in Mac
 - [ ] [**Kap**](https://getkap.co/): screen recorder for Mac
-- [ ] [**Aerial Screensaver**](https://aerialscreensaver.github.io/): a macOS screensaver that lets you play videos from Apple's tvOS screensaver
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
 - [ ] [**Arc**](https://arc.net/download): Chrome alternative
@@ -112,12 +111,9 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 ### **Menubar apps**
 
-- [ ] [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
 - [ ] [**Dozer**](https://github.com/Mortennn/Dozer): hides icons in menubar (free)
 - [ ] [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar (with paid version)
-- [ ] [**Numi**](https://numi.app/) (with fee): minimalist and highly funcitional calculator
 - [ ] [**Rocket**](https://matthewpalmer.net/rocket/): emoji picker and shortcut
-- [ ] [**RunCat**](https://apps.apple.com/nz/app/runcat/id1429033973?mt=12): tracks CPU, disk, memory usage of your computer with running gif/symbol
 - [ ] [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
 - [ ] [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
 - [ ] [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨ Recommended
@@ -127,7 +123,6 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 ### **Accessibility tools**
 
 - [ ] [**Sim Daltonism**](https://michelf.ca/projects/sim-daltonism/): Lets you visualize colors as they are perceived with various types of color blindness
-- [ ] [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
 - [ ] [**Color contrast analyser (CCA)**](https://www.tpgi.com/color-contrast-checker/): WCAG 2.0 compliant contrast ratio checker with more information than Contrast
 - [ ] [**Stark**](https://www.getstark.co/figma): Figma plugin for your accessibility audits
 - [ ] [**HeadingsMap**](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi): List the headings structure of any website
@@ -213,6 +208,7 @@ brew install zsh
 - [ ] Configure **~/.zshrc**
 - [ ] Install [nvm](https://github.com/nvm-sh/nvm)
 - [ ] Install [**yarn**](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+- [ ] Download [Amazon Q](https://aws.amazon.com/q/developer/): Previously Fig. Downloading for terminal autocompletion
 ```
 brew install yarn
 ```
