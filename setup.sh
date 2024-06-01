@@ -28,7 +28,6 @@ brew install --cask telegram
 
 # Dev
 brew install --cask iterm2
-brew install --cask fig
 brew install gh
 
 # Vim/vimrc needs
@@ -40,8 +39,6 @@ brew install the_silver_searcher
 brew install --cask spectacle
 brew install --cask kap
 brew install --cask raycast
-brew install --cask meetingbar
-brew install --cask aerial
 
 # Menubar apps
 brew install --cask vanilla
