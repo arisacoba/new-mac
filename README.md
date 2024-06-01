@@ -111,7 +111,6 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 ### **Menubar apps**
 
-- [ ] [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
 - [ ] [**Dozer**](https://github.com/Mortennn/Dozer): hides icons in menubar (free)
 - [ ] [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar (with paid version)
 - [ ] [**Rocket**](https://matthewpalmer.net/rocket/): emoji picker and shortcut
