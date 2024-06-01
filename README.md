@@ -194,7 +194,7 @@ On dock → Right-click Spotify → Options → This Desktop
 
 <br />
 
-### [Logi Options+](https://www.logitech.com/en-ph/software/logi-options-plus.html
+### [Logi Options+](https://www.logitech.com/en-ph/software/logi-options-plus.html)
 
 **General**
 ![CleanShot 2024-05-31 at 09 47 48@2x](https://github.com/arisacoba/new-mac/assets/8143661/fffabee0-ee3c-4d00-a001-d4a386327b7d)
