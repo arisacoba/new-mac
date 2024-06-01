@@ -206,16 +206,12 @@ On dock → Right-click Spotify → Options → This Desktop
 
 - [ ] Install [**Homebrew**](https://brew.sh/)
 - [ ] Install **zsh**
-
         $ brew install zsh
-
 - [ ] Install [**oh-my-zsh**](https://github.com/ohmyzsh/ohmyzsh)
 - [ ] Configure **~/.zshrc**
 - [ ] Install [nvm](https://github.com/nvm-sh/nvm)
 - [ ] Install [**yarn**](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
-
         brew install yarn
-
 - [ ] Configure [**~/.vimrc**](https://github.com/arisacoba/setting-up-vim)
 
 <br /><br /><br />
