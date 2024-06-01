@@ -52,50 +52,48 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 ### **First things first**
 
-- [ ]  [**Google Chrome**](https://www.google.com/chrome/): web browser. If don't like Chrome, get [**Firefox**](https://www.mozilla.org/en-US/firefox/new/)
-    - [ ]  [**Vimium**](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): enables Vim key strokes in browser
-    - [ ]  [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
-    - [ ]  [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector ✨Highly recommended
-    - [ ]  [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
-    - [ ]  [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
-    - [ ]  [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
+- [ ] [**Google Chrome**](https://www.google.com/chrome/): web browser. If don't like Chrome, get [**Firefox**](https://www.mozilla.org/en-US/firefox/new/)
+    - [ ] [**Vimium**](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): enables Vim key strokes in browser
+    - [ ] [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
+    - [ ] [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector ✨Highly recommended
+    - [ ] [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
+    - [ ] [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
+    - [ ] [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
 - [ ] Download [iTerm2](https://iterm2.com/downloads.html)
-- [ ] Open iTerm2
   - [ ] Change theme to `Minimal`
   - [ ] Import [iTerm profile](https://github.com/arisacoba/dotfiles/blob/main/iterm2/iterm-profile.json)
-- [ ]  Install [Homebrew](https://brew.sh/)
-- [ ]  Download [Node.js](https://nodejs.org/en/)
-- [ ]  New wallpaper from [**Unsplash**](https://unsplash.com/)
-- [ ]  Change user avatar
-
+- [ ] Download [Node.js](https://nodejs.org/en/)
+- [ ] Install [Homebrew](https://brew.sh/)
+- [ ] New wallpaper from [**Unsplash**](https://unsplash.com/)
+- [ ] Change user avatar
 
 ### **Design**
 
-- [ ]  [**Figma**](https://www.figma.com/downloads/): browser-based design and prototype app, with collaboration
-  - [ ]  Nudge amount: 8
-  - [ ]  Enable `Use number keys for opacity`
+- [ ] [**Figma**](https://www.figma.com/downloads/): browser-based design and prototype app, with collaboration
+  - [ ] Nudge amount: 8
+  - [ ] Enable `Use number keys for opacity`
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
 - [ ] [**Confectionery browser**](https://confectioneryapp.com/): Take delicious screenshots of your websites. Cleaner version of Safari and Arc
 
 ### **Productivity/Communication**
 
-- [ ]  [**Slack**](https://slack.com/intl/en-ph/help/articles/207677868-Download-Slack-for-Mac)
-- [ ]  [**Notion**](https://www.notion.so/desktop): powerful note-taking app
-- [ ]  [**Zoom**](https://zoom.us/download): video conferencing tool
-- [ ]  [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
-- [ ]  [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro
-- [ ]  [**Telegram**](https://macos.telegram.org/): instant-messaging app
-- [ ]  (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
+- [ ] [**Slack**](https://slack.com/intl/en-ph/help/articles/207677868-Download-Slack-for-Mac)
+- [ ] [**Notion**](https://www.notion.so/desktop): powerful note-taking app
+- [ ] [**Zoom**](https://zoom.us/download): video conferencing tool
+- [ ] [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
+- [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro
+- [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
+- [ ] (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
 ### **Dev**
 
-- [ ]  **iTerm2**: terminal emulator for Mac
-- [ ]  [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/): web browser with powerful dev tools
-    - [ ]  [**Vimium**](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
-    - [ ]  [**Pocket**](https://getpocket.com/firefox/)
-    - [ ]  [**ColorZilla**](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
-    - [ ]  [**WhatFont**](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
-    - [ ]  [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
+- [ ] [**iTerm2**](https://iterm2.com/downloads.html): terminal emulator for Mac
+- [ ] [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/): web browser with powerful dev tools
+    - [ ] [**Vimium**](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
+    - [ ] [**Pocket**](https://getpocket.com/firefox/)
+    - [ ] [**ColorZilla**](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
+    - [ ] [**WhatFont**](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
+    - [ ] [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
 - [ ] [**Fig**](https://fig.io/invite?code=fig_community): Terminal autocomplete (Now called CodeWhisperer)
@@ -114,33 +112,32 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 ### **Menubar apps**
 
-- [ ]  [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
-- [ ]  [**Dozer**](https://github.com/Mortennn/Dozer): hides icons in menubar (free)
-- [ ]  [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar (with paid version)
-- [ ]  [**Numi**](https://numi.app/) (with fee): minimalist and highly funcitional calculator
-- [ ]  [**Rocket**](https://matthewpalmer.net/rocket/): emoji picker and shortcut
-- [ ]  [**RunCat**](https://apps.apple.com/nz/app/runcat/id1429033973?mt=12): tracks CPU, disk, memory usage of your computer with running gif/symbol
-- [ ]  [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
-- [ ]  [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
-- [ ]  [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨ Recommended
-- [ ]  [**MonitorControl**](https://github.com/MonitorControl/MonitorControl): Control your display's brightness & volume on your Mac as if it was a native Apple Display
-- [ ]  [**Clocker**](https://apps.apple.com/us/app/clocker/id1056643111?mt=12): Menubar world clock
+- [ ] [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
+- [ ] [**Dozer**](https://github.com/Mortennn/Dozer): hides icons in menubar (free)
+- [ ] [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar (with paid version)
+- [ ] [**Numi**](https://numi.app/) (with fee): minimalist and highly funcitional calculator
+- [ ] [**Rocket**](https://matthewpalmer.net/rocket/): emoji picker and shortcut
+- [ ] [**RunCat**](https://apps.apple.com/nz/app/runcat/id1429033973?mt=12): tracks CPU, disk, memory usage of your computer with running gif/symbol
+- [ ] [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
+- [ ] [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
+- [ ] [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨ Recommended
+- [ ] [**MonitorControl**](https://github.com/MonitorControl/MonitorControl): Control your display's brightness & volume on your Mac as if it was a native Apple Display
+- [ ] [**Clocker**](https://apps.apple.com/us/app/clocker/id1056643111?mt=12): Menubar world clock
 
 ### **Accessibility tools**
 
-- [ ]  [**Sim Daltonism**](https://michelf.ca/projects/sim-daltonism/): Lets you visualize colors as they are perceived with various types of color blindness
-- [ ]  [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
-- [ ]  [**Color contrast analyser (CCA)**](https://www.tpgi.com/color-contrast-checker/): WCAG 2.0 compliant contrast ratio checker with more information than Contrast
-- [ ]  [**Stark**](https://www.getstark.co/figma): Figma plugin for your accessibility audits
-- [ ]  [**HeadingsMap**](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi): List the headings structure of any website
+- [ ] [**Sim Daltonism**](https://michelf.ca/projects/sim-daltonism/): Lets you visualize colors as they are perceived with various types of color blindness
+- [ ] [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
+- [ ] [**Color contrast analyser (CCA)**](https://www.tpgi.com/color-contrast-checker/): WCAG 2.0 compliant contrast ratio checker with more information than Contrast
+- [ ] [**Stark**](https://www.getstark.co/figma): Figma plugin for your accessibility audits
+- [ ] [**HeadingsMap**](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi): List the headings structure of any website
 
 ### **Misc**
 
-- [ ]  [**Logitech Options**](https://www.logitech.com/en-ph/product/options): application to configure your logitech devices
-- [ ]  [**Spotify**](https://www.spotify.com/ph/download/other/): only the music and podcast streaming you need
-- [ ]  [**MacDown**](https://macdown.uranusjr.com/): markdown editor
-- [ ]  [**Obsidian**](https://obsidian.md/): powerful markdown editor
-- [ ]  [**Keycastr**](https://github.com/keycastr/keycastr): keystroke visualiser; useful with Kap ✨New
+- [ ] [**Logitech Options**](https://www.logitech.com/en-ph/product/options): application to configure your logitech devices
+- [ ] [**Spotify**](https://www.spotify.com/ph/download/other/): only the music and podcast streaming you need
+- [ ] [**Obsidian**](https://obsidian.md/): powerful markdown editor
+- [ ] [**Keycastr**](https://github.com/keycastr/keycastr): keystroke visualiser; useful with Kap ✨New
 
 <br />
 
@@ -207,18 +204,19 @@ On dock → Right-click Spotify → Options → This Desktop
 
 # Terminal Configuration
 
-- [ ]  Install [**Homebrew**](https://brew.sh/)
-- [ ]  Install **zsh**
+- [ ] Install [**Homebrew**](https://brew.sh/)
+- [ ] Install **zsh**
 
         $ brew install zsh
 
-- [ ]  Install [**oh-my-zsh**](https://github.com/ohmyzsh/ohmyzsh)
-- [ ]  Configure **~/.zshrc**
-- [ ]  Install [**yarn**](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+- [ ] Install [**oh-my-zsh**](https://github.com/ohmyzsh/ohmyzsh)
+- [ ] Configure **~/.zshrc**
+- [ ] Install [nvm](https://github.com/nvm-sh/nvm)
+- [ ] Install [**yarn**](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
 
         brew install yarn
 
-- [ ]  Configure [**~/.vimrc**](https://github.com/arisacoba/setting-up-vim)
+- [ ] Configure [**~/.vimrc**](https://github.com/arisacoba/setting-up-vim)
 
 <br /><br /><br />
 
