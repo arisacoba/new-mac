@@ -97,7 +97,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
     - [ ] [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
-- [ ] [**Fig**](https://fig.io/invite?code=fig_community): Terminal autocomplete (Now called CodeWhisperer)
+- [ ] [**Amazon Q**](https://aws.amazon.com/q/developer/?gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrTgW8tgcXAL_8R17kuD8owHSKZFKGT53fBjoT81m4TUi3XW0HeEtUaAnhzEALw_wcB&trk=255ccf7b-4a76-4dcb-9b07-68709e2b636b&sc_channel=ps&ef_id=Cj0KCQjw6uWyBhD1ARIsAIMcADrTgW8tgcXAL_8R17kuD8owHSKZFKGT53fBjoT81m4TUi3XW0HeEtUaAnhzEALw_wcB:G:s&s_kwcid=AL!4422!3!698234556956!e!!g!!amazon%20codewhisperer!21048268533!162057027495): Previously Fig, and Amazon Whisperer. Autocomplete in CLI and more
 
 ### **Mac specific apps**
 
