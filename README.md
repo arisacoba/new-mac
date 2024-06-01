@@ -102,10 +102,8 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 ### **Mac specific apps**
 
 - [ ] [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
-- [ ] [**MeetingBar**](https://github.com/leits/MeetingBar): lists your calendar meetings in menubar (Alternative: Cron calendar) ✨Highly recommended
 - [ ] [**Spectacle**](https://www.spectacleapp.com/): easily resize windows in Mac
 - [ ] [**Kap**](https://getkap.co/): screen recorder for Mac
-- [ ] [**Aerial Screensaver**](https://aerialscreensaver.github.io/): a macOS screensaver that lets you play videos from Apple's tvOS screensaver
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
 - [ ] [**Arc**](https://arc.net/download): Chrome alternative
@@ -116,9 +114,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
 - [ ] [**Dozer**](https://github.com/Mortennn/Dozer): hides icons in menubar (free)
 - [ ] [**Vanilla**](https://matthewpalmer.net/vanilla/): hides icons in menubar (with paid version)
-- [ ] [**Numi**](https://numi.app/) (with fee): minimalist and highly funcitional calculator
 - [ ] [**Rocket**](https://matthewpalmer.net/rocket/): emoji picker and shortcut
-- [ ] [**RunCat**](https://apps.apple.com/nz/app/runcat/id1429033973?mt=12): tracks CPU, disk, memory usage of your computer with running gif/symbol
 - [ ] [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
 - [ ] [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
 - [ ] [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨ Recommended
