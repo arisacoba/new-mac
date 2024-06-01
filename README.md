@@ -123,7 +123,6 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 ### **Accessibility tools**
 
 - [ ] [**Sim Daltonism**](https://michelf.ca/projects/sim-daltonism/): Lets you visualize colors as they are perceived with various types of color blindness
-- [ ] [**Contrast**](https://usecontrast.com/): a WCAG 2.0 standard contrast ratio guide/picker
 - [ ] [**Color contrast analyser (CCA)**](https://www.tpgi.com/color-contrast-checker/): WCAG 2.0 compliant contrast ratio checker with more information than Contrast
 - [ ] [**Stark**](https://www.getstark.co/figma): Figma plugin for your accessibility audits
 - [ ] [**HeadingsMap**](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi): List the headings structure of any website
