@@ -83,6 +83,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
 - [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
+- [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
 - [ ] (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
 ### **Dev**
