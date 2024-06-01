@@ -214,6 +214,7 @@ brew install zsh
 - [ ] Configure **~/.zshrc**
 - [ ] Install [nvm](https://github.com/nvm-sh/nvm)
 - [ ] Install [**yarn**](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+- [ ] Download [Amazon Q](https://aws.amazon.com/q/developer/): Previously Fig. Downloading for terminal autocompletion
 ```
 brew install yarn
 ```
