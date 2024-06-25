@@ -84,6 +84,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
+- [ ] [**Rewatch**](https://rewatch.com/screen-recorder/): For async communications, screen-recording tool, alternative to Loom
 - [ ] (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
 ### **Dev**
