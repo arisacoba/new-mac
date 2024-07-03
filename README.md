@@ -4,7 +4,7 @@
 
 Bunch of checklists to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
 
-Last update: 26 June 2024
+Last update: 3 July 2024
 
 <br/>
 
@@ -30,8 +30,8 @@ Last update: 26 June 2024
   * [Change user avatar](#change-user-avatar)
   * [Keyboard app shortcuts](#keyboard-app-shortcuts)
   * [Trackpad configuration](#trackpad-configuration)
-  * [Mouse configuration](#mouse-configuration)
-  * [Open Spotify only on the second desktop](#open-spotify-only-on-the-second-desktop)
+  * [Misc](#misc-1)
+  * [Logi Options+](#logi-options)
 * [Terminal Configuration](#terminal-configuration)
 
 <br />
