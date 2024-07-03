@@ -109,6 +109,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
 - [ ] [**Arc**](https://arc.net/download): Chrome alternative
 - [ ] [**Klack**](https://tryklack.com/): Satisfying sound with every keystroke
+- [ ] [**Presentify**](https://presentifyapp.com/): Annotate your screens
 
 ### **Menubar apps**
 
@@ -159,6 +160,11 @@ System Settings → Keyboard
 - [x] Add `1Password`, `Arc`, `Google Chrome`
 
 ![keyboard-shortcuts@2x](https://github.com/arisacoba/new-mac/assets/8143661/4d96955f-45d7-41dc-a84e-5f2140b587ff)
+
+- [x] Use `F3` for Mission Control
+- [x] Use `F4` for Application windows
+
+![Keyboard shortcuts@2x](https://github.com/user-attachments/assets/e99b20b0-b9f2-4130-bd93-56393c54fc2f)
 
 ### Trackpad configuration
 
