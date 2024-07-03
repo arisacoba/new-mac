@@ -208,8 +208,9 @@ On dock → Right-click Spotify → Options → This Desktop
 
 Update colors for annotation and cursor
 
-![presentify-annotate@2x](https://github.com/user-attachments/assets/da961212-6cd1-44ee-9a7b-d36478f4bb81)
-![presentify-cursor@2x](https://github.com/user-attachments/assets/e208ce48-f3cd-4633-ac12-310f2599ca54)
+<p>
+ <img src="https://github.com/user-attachments/assets/da961212-6cd1-44ee-9a7b-d36478f4bb81" width="50%"><img src="https://github.com/user-attachments/assets/e208ce48-f3cd-4633-ac12-310f2599ca54" width="50%">
+</p>
 
 # Terminal Configuration
 
