@@ -30,8 +30,8 @@ Last update: 26 June 2024
   * [Change user avatar](#change-user-avatar)
   * [Keyboard app shortcuts](#keyboard-app-shortcuts)
   * [Trackpad configuration](#trackpad-configuration)
-  * [Mouse configuration](#mouse-configuration)
-  * [Open Spotify only on the second desktop](#open-spotify-only-on-the-second-desktop)
+  * [Misc](#misc)
+  * [Logi Options+](#logi-options)
 * [Terminal Configuration](#terminal-configuration)
 
 <br />
