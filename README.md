@@ -30,7 +30,7 @@ Last update: 26 June 2024
   * [Change user avatar](#change-user-avatar)
   * [Keyboard app shortcuts](#keyboard-app-shortcuts)
   * [Trackpad configuration](#trackpad-configuration)
-  * [Misc](#misc)
+  * [Misc](#misc-1)
   * [Logi Options+](#logi-options)
 * [Terminal Configuration](#terminal-configuration)
 
