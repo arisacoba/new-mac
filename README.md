@@ -30,8 +30,8 @@ Last update: 3 July 2024
   * [Change user avatar](#change-user-avatar)
   * [Keyboard app shortcuts](#keyboard-app-shortcuts)
   * [Trackpad configuration](#trackpad-configuration)
-  * [Misc](#misc-1)
   * [Logi Options+](#logi-options)
+  * [Misc](#misc-1)
 * [Terminal Configuration](#terminal-configuration)
 
 <br />
@@ -181,6 +181,16 @@ System Settings → Accessibility → Pointer Control
 
 ![three-finger-drag 2@2x](https://github.com/arisacoba/new-mac/assets/8143661/402ac122-76bb-4fe2-ac10-f1a56aedc0b4)
 
+<br />
+
+### [Logi Options+](https://www.logitech.com/en-ph/software/logi-options-plus.html)
+
+**General**
+![CleanShot 2024-05-31 at 09 47 48@2x](https://github.com/arisacoba/new-mac/assets/8143661/fffabee0-ee3c-4d00-a001-d4a386327b7d)
+
+**Figma**
+![mxmaster3-figma-shortcuts](https://github.com/arisacoba/new-mac/assets/8143661/a1c3e1be-b321-438c-8a74-8a91b4fe4af8)
+
 ### Misc
 
 **Show battery percentage**
@@ -194,15 +204,12 @@ On dock → Right-click Spotify → Options → This Desktop
 
 <img width="780" alt="spotify-configuration" src="https://user-images.githubusercontent.com/8143661/72589019-01889680-3935-11ea-8d4b-88ce39985b48.jpg">
 
-<br />
+**[Presentify](https://presentifyapp.com/)**
 
-### [Logi Options+](https://www.logitech.com/en-ph/software/logi-options-plus.html)
+Update colors for annotation and cursor
 
-**General**
-![CleanShot 2024-05-31 at 09 47 48@2x](https://github.com/arisacoba/new-mac/assets/8143661/fffabee0-ee3c-4d00-a001-d4a386327b7d)
-
-**Figma**
-![mxmaster3-figma-shortcuts](https://github.com/arisacoba/new-mac/assets/8143661/a1c3e1be-b321-438c-8a74-8a91b4fe4af8)
+![presentify-annotate@2x](https://github.com/user-attachments/assets/da961212-6cd1-44ee-9a7b-d36478f4bb81)
+![presentify-cursor@2x](https://github.com/user-attachments/assets/e208ce48-f3cd-4633-ac12-310f2599ca54)
 
 # Terminal Configuration
 
