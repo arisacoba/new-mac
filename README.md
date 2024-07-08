@@ -159,7 +159,7 @@ System Settings → Keyboard
 - [x] Enable "Keyboard navigation"
 - [x] Add `1Password`, `Arc`, `Google Chrome`
 
-![keyboard-shortcuts@2x](https://github.com/arisacoba/new-mac/assets/8143661/4d96955f-45d7-41dc-a84e-5f2140b587ff)
+![keyboard-app-shortcuts@2x](https://github.com/user-attachments/assets/e73d52bd-7c15-4a39-b32c-bf572ce10bce)
 
 - [x] Use `F3` for Mission Control
 - [x] Use `F4` for Application windows
