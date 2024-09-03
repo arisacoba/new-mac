@@ -1,4 +1,4 @@
-![aris_acoba_zoom](https://github.com/user-attachments/assets/368c9c6d-948d-4534-aa80-002ab07274c1)# New Mac
+# New Mac
 
 > New mac, who dis
 
