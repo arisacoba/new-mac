@@ -1,4 +1,4 @@
-# New Mac
+![aris_acoba_zoom](https://github.com/user-attachments/assets/368c9c6d-948d-4534-aa80-002ab07274c1)# New Mac
 
 > New mac, who dis
 
@@ -85,6 +85,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
 - [ ] [**Rewatch**](https://rewatch.com/screen-recorder/): For async communications, screen-recording tool, alternative to Loom
+- [ ] [**Clop**](https://lowtechguys.com/clop/): Image, video, PDF and clipboard optimiser ✨ Recommended
 - [ ] (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
 ### **Dev**
@@ -108,7 +109,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
 - [ ] [**Arc**](https://arc.net/download): Chrome alternative
-- [ ] [**Klack**](https://tryklack.com/): Satisfying sound with every keystroke
+- [ ] [**Klack**](https://tryklack.com/): Satisfying sound with every keystroke ✨ Recommended
 - [ ] [**Presentify**](https://presentifyapp.com/): Annotate your screens
 
 ### **Menubar apps**
@@ -134,7 +135,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Logitech Options**](https://www.logitech.com/en-ph/product/options): application to configure your logitech devices
 - [ ] [**Spotify**](https://www.spotify.com/ph/download/other/): only the music and podcast streaming you need
 - [ ] [**Obsidian**](https://obsidian.md/): powerful markdown editor
-- [ ] [**Keycastr**](https://github.com/keycastr/keycastr): keystroke visualiser; useful with Kap ✨New
+- [ ] [**Keycastr**](https://github.com/keycastr/keycastr): keystroke visualiser; useful with Kap 
 
 <br />
 
