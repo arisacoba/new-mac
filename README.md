@@ -55,7 +55,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Google Chrome**](https://www.google.com/chrome/): web browser. If don't like Chrome, get [**Firefox**](https://www.mozilla.org/en-US/firefox/new/)
     - [ ] [**Vimium**](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): enables Vim key strokes in browser
     - [ ] [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
-    - [ ] [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector ✨Highly recommended
+    - [ ] [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector <kbd>Highly recommended</kbd>
     - [ ] [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
     - [ ] [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
     - [ ] [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
@@ -85,7 +85,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
 - [ ] [**Rewatch**](https://rewatch.com/screen-recorder/): For async communications, screen-recording tool, alternative to Loom
-- [ ] [**Clop**](https://lowtechguys.com/clop/): Image, video, PDF and clipboard optimiser ✨ Recommended
+- [ ] [**Clop**](https://lowtechguys.com/clop/): Image, video, PDF and clipboard optimiser <kbd>Recommended</kbd>
 - [ ] (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
 ### **Dev**
@@ -103,13 +103,13 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/set
 
 ### **Mac specific apps**
 
-- [ ] [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) ✨Highly recommended
+- [ ] [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) <kbd>Highly recommended</kbd>
 - [ ] [**Spectacle**](https://www.spectacleapp.com/): easily resize windows in Mac
 - [ ] [**Kap**](https://getkap.co/): screen recorder for Mac
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
 - [ ] [**Arc**](https://arc.net/download): Chrome alternative
-- [ ] [**Klack**](https://tryklack.com/): Satisfying sound with every keystroke ✨ Recommended
+- [ ] [**Klack**](https://tryklack.com/): Satisfying sound with every keystroke <kbd>Recommended</kbd>
 - [ ] [**Presentify**](https://presentifyapp.com/): Annotate your screens
 
 ### **Menubar apps**
