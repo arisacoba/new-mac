@@ -44,7 +44,7 @@ Last update: `3 September 2024`
 This will install apps available in [Homebrew](https://brew.sh/). See [files](https://github.com/arisacoba/new-mac/blob/main/setup.sh) to be installed
 
 ```
-bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/setup.sh`"
+bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup.sh`"
 ```
 
 
