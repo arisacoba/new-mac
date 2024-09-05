@@ -4,7 +4,7 @@
 
 Bunch of checklists to do when setting up a new Mac. There must be a way to automate this; I just had to work on what I have to make the setting up happen.
 
-Last update: 3 July 2024
+Last update: `3 September 2024`
 
 <br/>
 
