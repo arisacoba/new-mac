@@ -81,7 +81,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 - [ ] [**Notion**](https://www.notion.so/desktop): powerful note-taking app
 - [ ] [**Zoom**](https://zoom.us/download): video conferencing tool
 - [ ] [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
-- [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro
+- [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro <kbd>Highly recommended</kbd>
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
 - [ ] [**Rewatch**](https://rewatch.com/screen-recorder/): For async communications, screen-recording tool, alternative to Loom
@@ -119,7 +119,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 - [ ] [**Rocket**](https://matthewpalmer.net/rocket/): emoji picker and shortcut
 - [ ] [**Amphetamine**](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): keeps your Mac awake
 - [ ] [**Mounty**](https://mounty.app/): re-mount write-protected NTFS volumes
-- [ ] [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac ✨ Recommended
+- [ ] [**HandMirror**](https://handmirror.app/): Hand mirror, for Mac <kbd>Recommended</kbd>
 - [ ] [**MonitorControl**](https://github.com/MonitorControl/MonitorControl): Control your display's brightness & volume on your Mac as if it was a native Apple Display
 - [ ] [**Clocker**](https://apps.apple.com/us/app/clocker/id1056643111?mt=12): Menubar world clock
 
