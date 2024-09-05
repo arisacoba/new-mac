@@ -52,7 +52,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 
 ### **First things first**
 
-- [ ] [**Google Chrome**](https://www.google.com/chrome/): web browser. If don't like Chrome, get [**Firefox**](https://www.mozilla.org/en-US/firefox/new/)
+- [ ] [**Google Chrome**](https://www.google.com/chrome/): web browser. Alternative: [**Firefox**](https://www.mozilla.org/en-US/firefox/new/), [**Arc**](https://arc.net/)
     - [ ] [**Vimium**](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): enables Vim key strokes in browser
     - [ ] [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
     - [ ] [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector <kbd>Highly recommended</kbd>
