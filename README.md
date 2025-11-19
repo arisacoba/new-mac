@@ -4,7 +4,7 @@
 
 Bunch of checklists to do when setting up a new Mac
 
-Last update: `3 September 2024`
+Last update: `19 Nov 2025`
 
 <br/>
 
@@ -52,6 +52,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 
 ### **First things first**
 
+- [ ] [**1Password**](https://1password.com/downloads/): Password manager
 - [ ] [**Google Chrome**](https://www.google.com/chrome/): web browser. Alternative: [**Firefox**](https://www.mozilla.org/en-US/firefox/new/), [**Arc**](https://arc.net/)
     - [ ] [**Vimium**](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): enables Vim key strokes in browser
     - [ ] [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
@@ -59,6 +60,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
     - [ ] [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
     - [ ] [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
     - [ ] [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
+- [ ] [**Raycast**](https://www.raycast.com/): Spotlight replacement (for Macs)
 - [ ] Download [iTerm2](https://iterm2.com/downloads.html)
   - [ ] Change theme to `Minimal`
   - [ ] Import [iTerm profile](https://github.com/arisacoba/dotfiles/blob/main/iterm2/iterm-profile.json)
