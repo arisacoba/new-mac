@@ -106,7 +106,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 ### **Mac specific apps**
 
 - [ ] [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) <kbd>Highly recommended</kbd>
-- [ ] [**Spectacle**](https://www.spectacleapp.com/): easily resize windows in Mac
+- [ ] [**Spectacle**](https://github.com/eczarny/spectacle/releases): easily resize windows in Mac
 - [ ] [**Kap**](https://getkap.co/): screen recorder for Mac
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
