@@ -67,6 +67,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 - [ ] Install [Homebrew](https://brew.sh/)
 - [ ] New wallpaper from [**Unsplash**](https://unsplash.com/)
 - [ ] Change user avatar
+- [ ] [**ChatGPT**](https://chatgpt.com/download/)
 
 ### **Design**
 
