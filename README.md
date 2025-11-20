@@ -84,6 +84,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 - [ ] [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
 - [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro <kbd>Highly recommended</kbd>
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
+- [ ] [**Whatsapp**](http://whatsapp.com/)
 - [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
 - [ ] [**Rewatch**](https://rewatch.com/screen-recorder/): For async communications, screen-recording tool, alternative to Loom
 - [ ] [**Clop**](https://lowtechguys.com/clop/): Image, video, PDF and clipboard optimiser <kbd>Recommended</kbd>
