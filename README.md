@@ -55,9 +55,8 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 - [ ] [**1Password**](https://1password.com/downloads/): Password manager
 - [ ] [**Google Chrome**](https://www.google.com/chrome/): web browser. Alternative: [**Firefox**](https://www.mozilla.org/en-US/firefox/new/), [**Arc**](https://arc.net/)
     - [ ] [**Vimium**](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): enables Vim key strokes in browser
-    - [ ] [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en): color picker
     - [ ] [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): font inspector <kbd>Highly recommended</kbd>
-    - [ ] [**ImageSize Info**](https://chrome.google.com/webstore/detail/image-size-info/oihdhfbfoagfkpcncinlbhfdgpegcigf?hl=en): checks image's size, width, and height on browser
+    - [ ] [**ImageSize Info**](https://chromewebstore.google.com/detail/akddgghkhjhhnghfclkmmkcmdbpdcgej?utm_source=item-share-cb): checks image's size, width, and height on browser
     - [ ] [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en): takes screenshots of your browser
     - [ ] [**Images under cursor**](https://chrome.google.com/webstore/detail/images-under-cursor/kjfcpinmimcpiabejchhneahpajgklcj?hl=en): get the images and background under the cursor, in URL or file
 - [ ] [**Raycast**](https://www.raycast.com/): Spotlight replacement (for Macs)
