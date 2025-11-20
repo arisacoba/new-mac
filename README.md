@@ -93,6 +93,7 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 ### **Dev**
 
 - [ ] [**iTerm2**](https://iterm2.com/downloads.html): terminal emulator for Mac
+    - [ ] Import [iTerm json profile](https://github.com/arisacoba/dotfiles-internal/blob/main/iTerm.json) (Private)
 - [ ] [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/): web browser with powerful dev tools
     - [ ] [**Vimium**](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
     - [ ] [**Pocket**](https://getpocket.com/firefox/)
