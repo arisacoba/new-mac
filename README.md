@@ -4,7 +4,7 @@
 
 Bunch of checklists to do when setting up a new Mac
 
-Last update: `3 September 2024`
+Last update: `16 December 2025`
 
 <br/>
 
@@ -229,6 +229,10 @@ brew install zsh
 brew install yarn
 ```
 - [ ] Configure [**~/.vimrc**](https://github.com/arisacoba/setting-up-vim)
+
+# VSCode Configuration
+
+- [ ] [Add keybindings from](https://github.com/ooloth/dotfiles) `ooloth`
 
 <br /><br /><br />
 
