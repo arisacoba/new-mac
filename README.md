@@ -89,6 +89,9 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 ### **Dev**
 
 - [ ] [**iTerm2**](https://iterm2.com/downloads.html): terminal emulator for Mac
+- [ ] [**Visual Studio Code**](https://code.visualstudio.com/)
+    - [ ] [Launch VS Code from the command line](https://code.visualstudio.com/docs/setup/mac#_launch-vs-code-from-the-command-line)
+- [ ] Configure zshrc, vimrc
 - [ ] [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/): web browser with powerful dev tools
     - [ ] [**Vimium**](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
     - [ ] [**ColorZilla**](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
