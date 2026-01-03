@@ -4,7 +4,7 @@
 
 Bunch of checklists to do when setting up a new Mac
 
-Last update: `16 December 2025`
+Last update: `3 January 2026`
 
 <br/>
 
@@ -80,31 +80,27 @@ bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/main/setup
 - [ ] [**Slack**](https://slack.com/intl/en-ph/help/articles/207677868-Download-Slack-for-Mac)
 - [ ] [**Notion**](https://www.notion.so/desktop): powerful note-taking app
 - [ ] [**Zoom**](https://zoom.us/download): video conferencing tool
-- [ ] [**Cron**](https://cron.com/) (Now, Notion Calendar): next-generation calendar for professionals and teams
+- [ ] [**Notion Calendar**](https://www.notion.com/en-gb/product/calendar) (Previously called Cron): next-generation calendar for professionals and teams
 - [ ] [**CleanShot**](https://cleanshot.com/): Capture your Mac’s screen like a pro <kbd>Highly recommended</kbd>
 - [ ] [**Telegram**](https://macos.telegram.org/): instant-messaging app
 - [ ] [**Discord**](https://discord.com/download): Less corporate Slack lol
-- [ ] [**Rewatch**](https://rewatch.com/screen-recorder/): For async communications, screen-recording tool, alternative to Loom
 - [ ] [**Clop**](https://lowtechguys.com/clop/): Image, video, PDF and clipboard optimiser <kbd>Recommended</kbd>
-- [ ] (Optional) [**Viber**](https://www.viber.com/download/): instant-messaging app
 
 ### **Dev**
 
 - [ ] [**iTerm2**](https://iterm2.com/downloads.html): terminal emulator for Mac
 - [ ] [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/): web browser with powerful dev tools
     - [ ] [**Vimium**](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
-    - [ ] [**Pocket**](https://getpocket.com/firefox/)
     - [ ] [**ColorZilla**](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
     - [ ] [**WhatFont**](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
     - [ ] [**Fireshot**](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
     See extensions' descriptions in [#first-things-first](https://www.notion.so/arisacoba/New-Mac-b861fe5837544810a37ea02abb42427a#72b4e840e1464fed9b14a28e43ca319a)
 - [ ] [**Responsively App**](https://github.com/manojVivek/responsively-app): mirrored user-interactions on various devices
-- [ ] [**Amazon Q**](https://aws.amazon.com/q/developer/?gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrTgW8tgcXAL_8R17kuD8owHSKZFKGT53fBjoT81m4TUi3XW0HeEtUaAnhzEALw_wcB&trk=255ccf7b-4a76-4dcb-9b07-68709e2b636b&sc_channel=ps&ef_id=Cj0KCQjw6uWyBhD1ARIsAIMcADrTgW8tgcXAL_8R17kuD8owHSKZFKGT53fBjoT81m4TUi3XW0HeEtUaAnhzEALw_wcB:G:s&s_kwcid=AL!4422!3!698234556956!e!!g!!amazon%20codewhisperer!21048268533!162057027495): Previously Fig, and Amazon Whisperer. Autocomplete in CLI and more
 
 ### **Mac specific apps**
 
 - [ ] [**Raycast**](https://raycast.com/): High productivity launcher (Spotlight/Alfred alternative) <kbd>Highly recommended</kbd>
-- [ ] [**Spectacle**](https://www.spectacleapp.com/): easily resize windows in Mac
+- [ ] [**Spectacle**](https://github.com/eczarny/spectacle): easily resize windows in Mac
 - [ ] [**Kap**](https://getkap.co/): screen recorder for Mac
 - [ ] [**Screen Studio**](https://www.screen.studio/): Beautiful screen recordings. Can't recommend this enough
 - [ ] [**MuteKey**](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12): Mute your microphone with hotkey
@@ -233,11 +229,3 @@ brew install yarn
 # VSCode Configuration
 
 - [ ] [Add keybindings from](https://github.com/ooloth/dotfiles) `ooloth`
-
-<br /><br /><br />
-
----
-
-Made by **[@aris_acoba](https://arisacoba.com/)**
-
-2024 • [aris.acoba@gmail.com](mailto:aris.acoba@gmail.com)
